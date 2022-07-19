@@ -5,18 +5,10 @@ let text = `${htki} MOTION PAY ${htka}
 
 💌 *Pembayaran*
 💳 Via: Motion Pay
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 081321776496
+👤 A/n: Defan
+📦 Mitra: Mizuhara-Mdོ
 💰 Metode pembayaran: Online ( ~Cod~ )
-
-📣 *Beli*
-
-Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
-
-Apk FangzApp:https://web.jagel.id/store/fangzapp
-
-Toko Website:https://toko.ly/TokoBot   (Non apk)
 
 ✏️ _Informasi Pembayaran_
 
