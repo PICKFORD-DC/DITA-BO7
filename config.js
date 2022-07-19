@@ -44,11 +44,11 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
 global.pdana = '081321776496' //Dana
-global.povo = '"_"' //Ovo
-global.pgopay = '"_"' //Gopay
+global.povo = '-' //Ovo
+global.pgopay = '-' //Gopay
 global.ppulsa = '081321776496' //Pulsa 
-global.ppulsa2 = '"_"' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = '"_"' //Saweria
+global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = '-' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6283894540806' //Nomor Bot mu
@@ -66,7 +66,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [6282135905896] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
