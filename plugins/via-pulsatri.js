@@ -1,19 +1,26 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let text = `${htki} TRI3 ${htka}
+let text = `${htki} PULSA ${htka}
 
-Hay👋‹, ingin Donasi?
+👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Pulsa Tri3
 📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📝 Mitra: Fangz BOT
+👤 A/n: Defan
+📦 Mitra: Mizuhara-Mdོ
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
-®KLIK *SUDAH BAYAR* JIKA SUDAH TRANSFER 
+✏️ _Informasi Pembayaran_
+
+Pembayaran Sewa hanya dapat menggunakan saldo.
+Pastikan saldo kamu mencukupi untuk bertransaksi!
+
+
+❗KLIK *SUDAH BAYAR* JIKA SUDAH MEMBAYAR!
 `
 const templateButtons = [
+    {index: 1, urlButton: {displayText: 'TOPUP', url: 'Konter Terdekat'}},
     {index: 4, quickReplyButton: {displayText: 'Sudah membayar', id: '.sudahbayar'}},
 ]
 let tm = {
@@ -24,9 +31,7 @@ image: {url: fla + 'Donasi'}
 }
 conn.sendMessage(m.chat, tm, m)
 }
-handler.help = ['tri']
-handler.tags = ['info']
-handler.command = /^(donasitri)$/i
+handler.command = /^pulsatri$/i
 handler.private = true
 
 export default handler

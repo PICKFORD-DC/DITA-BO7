@@ -4,10 +4,10 @@ let text = `${htki} DANA ${htka}
 Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
-💳 Via: Dana 
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📝 Mitra: Fangz BOT
+💳 Via: lulsa telkonsel
+📞 Nomor: 081321776496
+👤 A/n: Defan
+📝 Mitra: Mizuhara-Mdོ
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 

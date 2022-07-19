@@ -5,9 +5,9 @@ Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
 💳 Via: Gopay
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📝 Mitra: Fangz BOT
+📞 Nomor: 081321776496
+👤 A/n: Defan
+📝 Mitra: Mizuhara-Mdོ
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 

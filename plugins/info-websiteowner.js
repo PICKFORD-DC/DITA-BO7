@@ -9,7 +9,7 @@ conn.sendMessage(m.chat, {
     index: 1,
     urlButton: {
       displayText: `Link`,
-      url: 'https://fangzbot.websites.co.in/'
+      url: 'https://github.com/Defan11'
     }
   }],
   footer: wm
